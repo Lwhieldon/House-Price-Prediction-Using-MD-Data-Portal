@@ -13,9 +13,9 @@ Maryland has partnered with Socrata to maintain an open data portal, containing 
 This project contains 3 primary areas:
 
 <ol>
-  <li><a href=https://github.com/Lwhieldon/House-Price-Prediction-Using-MD-Data-Portal/blob/master/Step%201%20Data%20Preparation%20-%20MD%20Real%20Estate%20Property%20Assessment.ipynb>Step 1: Data Gathering & Prep</a>: Establishing connection to Socrata API and cleansing data</li>
-  <li> <a href=https://github.com/Lwhieldon/House-Price-Prediction-Using-MD-Data-Portal/blob/master/Step%202%20Data%20Preprocessing%20-%20Analyzing%2C%20Dummy%20%26%20Standardizing%20Data.ipynb>Step 2: Preprocessing Features & EDA</a> EDA & updating features to add to model. </li>
-  <li><a href=https://github.com/Lwhieldon/House-Price-Prediction-Using-MD-Data-Portal/blob/master/Step%203%20Model%20-%20Linear%2C%20Ridge%2C%20%26%20Lasso%20Regression%20Comparison-Multiple%20Scores.ipynb>Step 3: Reviewing Different Models & Performance</a> Applying different regression models & comparing performance</li>
+  <li><a href=https://github.com/Lwhieldon/House-Price-Prediction-Using-MD-Data-Portal/blob/master/Step%201%20Data%20Preparation%20-%20MD%20Real%20Estate%20Property%20Assessment.ipynb>Data Gathering & Prep</a>: Establishing connection to Socrata API and cleansing data</li>
+  <li> <a href=https://github.com/Lwhieldon/House-Price-Prediction-Using-MD-Data-Portal/blob/master/Step%202%20Data%20Preprocessing%20-%20Analyzing%2C%20Dummy%20%26%20Standardizing%20Data.ipynb>Preprocessing Features & EDA</a> EDA & updating features to add to model. </li>
+  <li><a href=https://github.com/Lwhieldon/House-Price-Prediction-Using-MD-Data-Portal/blob/master/Step%203%20Model%20-%20Linear%2C%20Ridge%2C%20%26%20Lasso%20Regression%20Comparison-Multiple%20Scores.ipynb>Reviewing Different Models & Performance</a> Applying different regression models & comparing performance</li>
 </ol>
 
 
