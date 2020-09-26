@@ -2,7 +2,7 @@
 Leveraging Maryland's Open Data Portal to Predict Housing Prices in a City
 
 <p align="center">
-<img src="https://github.com/Lwhieldon/Tableau-s-Superstore-Price-Prediction/blob/master/Images/SampleSuperstore.png?raw=true" width="200" height="200" />
+<img src="https://opendata.maryland.gov/api/assets/A80F32FB-9ED4-46FF-98CE-80A6EE69851F?Maryland_ODP_Header_BLK.png" />
 </p>
 
 ## Overview
